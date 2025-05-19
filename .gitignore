@@ -1,6 +1,4 @@
 AIimageDetector
-dataset
-datasetresized
-downloadOV7
-newImagesAI
-newImagesreal
+datasetOriginal
+pairedimages
+pairedDataset
