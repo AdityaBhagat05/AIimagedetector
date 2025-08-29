@@ -1,4 +1,11 @@
-AIimageDetector
+
 datasetOriginal
 pairedimages
 pairedDataset
+cnnNewDataSet.ipynb
+downloadOV7
+.vscode
+snn.ipynb
+resizingPaired.py
+.venv
+frontend\image-detector\node_modules
